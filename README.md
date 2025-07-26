@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a **Modern React Admin Dashboard**
 - 🌱 I’m learning **TypeScript, Next.js, and Three.js**
 - 💬 Ask me about **React, TailwindCSS, UI/UX**
-- 📫 How to reach me: mohamed.yourmail@example.com
+- 📫 How to reach me: m99775997@gmail.com
 
 ---
 
@@ -20,6 +20,6 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohame60&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohame60&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moham60&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moham60&layout=compact&theme=radical" />
 </p>
